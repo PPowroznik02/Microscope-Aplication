@@ -8,18 +8,15 @@ Program to operate and analyse camera view from IZOXIS USB microscope.
 - Save screenshots from processed camera view to .png file.
 - Record processed camera view and save it as an animation to .gif file.
 - Process camera view in real-time
-      - binary
-   
-        ![Binary image](recordings/binary.png)
-   
-      - mirrored
-   
-        ![Mirrored image](recordings/mirror.png)
+  - Binary
+    ![Binary image](recordings/binary.gif)
 
-      - negative
-   
-        ![negative image](recordings/negative.png)
-   
-      - noised
-   
-        ![Noised image](recordings/noised.png)
+  - Mirrored
+    ![Mirrored image](recordings/mirror.gif)
+  
+  - Negative
+    ![Negative image](recordings/negative.gif)
+
+  - Noised
+    ![Noised](recordings/noised.png)
+
