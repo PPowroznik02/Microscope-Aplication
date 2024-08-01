@@ -10,16 +10,16 @@ Program to operate and analyse camera view from IZOXIS USB microscope.
 - Process camera view in real-time
       - binary
    
-        ![Binary image][/recordings/binary.gif]
+        ![Binary image](recordings/binary.gif)
    
       - mirrored
    
-        ![Mirrored image][/recordings/mirror.gif]
+        ![Mirrored image](recordings/mirror.gif)
 
       - negative
    
-        ![negative image][/recordings/negative.gif]
+        ![negative image](recordings/negative.gif)
    
       - noised
    
-        ![Noised image][/recordings/noised.png]
+        ![Noised image](recordings/noised.png)
